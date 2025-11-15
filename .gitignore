@@ -10,9 +10,6 @@
 # Разрешить README в корне (если нужен)
 !README.md
 
-# Разрешить скрипт обновления индекса
-!update-xlnce-index.sh
-
 # Игнорировать файлы Ulysses
 **/.Ulysses*
 .Ulysses*
