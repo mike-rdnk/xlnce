@@ -16,3 +16,7 @@
 # Разрешить README в корне (если нужен)
 !README.md
 
+# Игнорировать файлы Ulysses
+**/.Ulysses*
+.Ulysses*
+
