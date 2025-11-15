@@ -20,3 +20,6 @@
 **/.Ulysses*
 .Ulysses*
 
+# Игнорировать файлы .DS_Store (системные файлы macOS)
+**/.DS_Store
+.DS_Store
