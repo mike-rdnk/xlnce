@@ -9,7 +9,7 @@
 # Разрешить сам .gitignore файл
 !.gitignore
 
-# Разрешить README в корне (если нужен)
+# Разрешить README в корне
 !README.md
 
 # Разрешить другие важные файлы
@@ -17,10 +17,45 @@
 !Когнитивные_искажения_AI_справочник_для_проверки_результатов.md
 !xlnce.zip
 
-# Игнорировать файлы Ulysses
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.plist
+
+# Windows
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Ulysses
 **/.Ulysses*
 .Ulysses*
 
-# Игнорировать файлы .DS_Store (системные файлы macOS)
-**/.DS_Store
-.DS_Store
+# Временные файлы
+*.tmp
+*.temp
+*.bak
+*.backup
+*.log
