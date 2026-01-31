@@ -120,4 +120,41 @@
 - **`instructions/`** — практические инструкции по применению методологии
 - **`templates/`** — шаблоны для работы с ДКЦП-моделями
 
-Подробное описание каждого файла см. в структуре репозитория выше.
+## Детальная структура репозитория
+
+### materials/ — базовые материалы и концепции
+
+- `dkcp-overview.md` — обзор методологии ДКЦП
+- `dkcp-evp.md` — Employee Value Proposition
+- `dkcp-open-lecture.md` — материалы открытой лекции
+- `problem-anatomy.md` — анатомия потребности
+- `usp-anatomy.md` — анатомия УТП
+- `value-logics.md` — логики ценности
+
+### instructions/ — инструкции по применению
+
+- `dkcp-artefact-attributes.md` — работа с артефактами и атрибутами
+- `dkcp-basic-narrative.md` — создание базового нарратива
+- `dkcp-checkup-criteria.md` — критерии проверки ДКЦП
+- `dkcp-customer-segment-creation.md` — создание клиентского сегмента
+- `dkcp-iqrt-instruction.md` — инструкция по IQRT (таблица мотивационного конфликта)
+- `dkcp-iqrt-instruction.docx` — версия инструкции в формате Word
+- `dkcp-local-conflicts.md` — работа с локальными конфликтами
+- `dkcp-motivational-conflict-creation.md` — создание мотивационного конфликта
+- `dkcp-motivational-conflict-resolve.md` — разрешение мотивационного конфликта через артефакт
+- `dkcp-motivational-conflict-verification.md` — проверка качества мотивационного конфликта
+- `dkcp-reverse-engeneering.md` — реверс-инжиниринг существующих решений
+- `dkcp-user-briefing.md` — брифинг клиента для создания ДКЦП
+- `dkcp-values.md` — работа с ценностями
+- `metamodel analysis.md` — метамодельный анализ коммуникации
+
+### templates/ — шаблоны для работы
+
+- `dkcp-attributes-mermaid-template.md` — шаблон диаграммы атрибутов (Mermaid)
+- `dkcp-checkup-template.md` — шаблон для проверки модели
+- `dkcp-exchange-sequence-template.md` — шаблон последовательности обмена
+- `dkcp-html-template.md` — HTML-шаблон для презентации
+- `dkcp-motivational-conflict-mermaid-template.md` — шаблон диаграммы конфликта (Mermaid)
+- `dkcp-motivational-conflict-table-template.md` — шаблон таблицы конфликта
+- `dkcp-template-basic.md` — базовый шаблон ДКЦП
+- `dkcp-template-full.md` — полный шаблон ДКЦП
